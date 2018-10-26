@@ -1,4 +1,4 @@
-/*
+﻿/*
 * Hunter Chu
 * October 23rd, 2018
 * checks for matches in the Connect 4 grid
@@ -8,7 +8,6 @@
 
 int main() {
 
-	int test;
 	bool player1Win = false;
 	bool player2Win = false;
 
